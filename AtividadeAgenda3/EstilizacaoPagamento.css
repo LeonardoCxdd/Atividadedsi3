@@ -1,0 +1,20 @@
+body {
+font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    background: url(3642054-montanha-paisagem-fundo-vetor.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.container {
+    width: 480px;
+    background-color: transparent;
+    border: 2px solid rgba(30, 6, 241, 0.2);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    padding: 30px 40px;
+    box-shadow: rgba(27, 4, 160, 0.89) 2.4px 2.4px 3.2px;
+     backdrop-filter: blur(5px)
+}
